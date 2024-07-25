@@ -1,3 +1,8 @@
+/**
+ * This class only contains a simple code to illustrate how the
+ * OptionalSingleton pattern would allow different instances while
+ * still giving the option of having global single instances.
+ */
 public class Main {
 
     public static void main(String[] args) {
